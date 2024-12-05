@@ -1,0 +1,29 @@
+body {
+  background-color: rgb(255, 221, 226);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 90vh;
+}
+
+form {
+  background-color: rgb(252, 254, 255);
+  padding: 14px;
+  border-radius: 10px;
+  width: 23%;
+}
+form #twoButtonDiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+form #twoButtonDiv .DivButton {
+  width: 100%;
+}
+form #twoButtonDiv .DivButton button {
+  background-color: rgb(252, 254, 255);
+  border-radius: 5px;
+  border: 1px solid gray;
+  color: dodgerblue;
+}/*# sourceMappingURL=style.css.map */
