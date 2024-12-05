@@ -26,4 +26,37 @@ form #twoButtonDiv .DivButton button {
   border-radius: 5px;
   border: 1px solid gray;
   color: dodgerblue;
+  width: 100%;
+  text-align: left;
+  padding: 12px 6px;
+}
+form #twoButtonDiv .DivButton button:hover {
+  background-color: lightskyblue;
+  color: white;
+  border: 2px solid dodgerblue;
+}
+form .inpDiv {
+  margin: 10px 0;
+}
+form .inpDiv input {
+  width: 98%;
+  border-radius: 5px;
+  border: 1px solid gray;
+  padding: 9px 0 9px 6px;
+}
+form #textDiv {
+  text-align: center;
+  font-size: 14px;
+}
+form #textDiv a {
+  color: dodgerblue;
+}
+form #btmDIv button {
+  width: 100%;
+  padding: 8px;
+  margin: 10px 0;
+  border-radius: 5px;
+  border: none;
+  background-color: dodgerblue;
+  color: white;
 }/*# sourceMappingURL=style.css.map */
